@@ -1,0 +1,58 @@
+{
+ "autoname": "lib/.#####", 
+ "creation": "2014-05-29 10:02:42.032406", 
+ "docstatus": 0, 
+ "doctype": "DocType", 
+ "document_type": "Master", 
+ "fields": [
+  {
+   "fieldname": "librarian", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Librarian", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "email_id", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Email Id", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "first_name", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "First Name", 
+   "permlevel": 0
+  }, 
+  {
+   "fieldname": "last_name", 
+   "fieldtype": "Data", 
+   "in_list_view": 1, 
+   "label": "Last Name", 
+   "permlevel": 0
+  }
+ ], 
+ "modified": "2014-05-29 10:02:42.032406", 
+ "modified_by": "Administrator", 
+ "module": "Library Management", 
+ "name": "Library Master", 
+ "name_case": "", 
+ "owner": "Administrator", 
+ "permissions": [
+  {
+   "amend": 0, 
+   "cancel": 0, 
+   "create": 1, 
+   "delete": 1, 
+   "permlevel": 0, 
+   "read": 1, 
+   "role": "Administrator", 
+   "submit": 0, 
+   "write": 1
+  }
+ ], 
+ "sort_field": "modified", 
+ "sort_order": "DESC"
+}
